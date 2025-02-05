@@ -6,3 +6,5 @@ https://www.marlabs.com/awards-recognitions/
 https://www.marlabs.com/worldwide-offices/
 https://www.marlabs.com/services/intelligent-automation-services/
 https://www.marlabs.com/experience-center/
+https://www.marlabs.com/services/data-analytics/
+https://www.marlabs.com/services/digital-engineering/
