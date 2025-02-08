@@ -1,0 +1,46 @@
+[
+  {
+    "city": "Bangalore, India",
+    "Address": "Primeco Union City,\n7th floor, Block 1\nSadaramangala Industrial Area,\nITPL Main Rd, Whitefield, Bengaluru - 560067"
+  },
+  {
+    "city": "New Jersey, USA",
+    "Address": "One Corporate Place South, 3rd Floor\nPiscataway NJ 08854-6116"
+  },
+  {
+    "city": "Indianapolis, USA",
+    "Address": "6500 Technology Center Drive\nSuite 100\nIndianapolis, IN 46278"
+  },
+  {
+    "city": "Ontario, Canada",
+    "Address": "2275 Lakeshore Blvd. West, Suite 544\nEtobicoke, ON M8V 3Y3"
+  },
+  {
+    "city": "Sao Carlos, Brazil",
+    "Address": "Av. Francisco Pereira Lopes, 1701-São\nCarlos-SP, Brazil."
+  },
+  {
+    "city": "Darmstadt, Germany",
+    "Address": "Berliner Allee 47\n64295 Darmstadt"
+  },
+  {
+    "city": "Bangalore, India",
+    "Address": "Prestige Blue Chip Software Park,\nBlock-3, 1st floor,\nHosur Road, Adugodi,\nBengaluru-560029."
+  },
+  {
+    "city": "Bangalore, India",
+    "Address": "North Gate Phase 1,\nModern Asset SEZ, Sy No. 2/1.2/2\n12th floor, Wing A,\nVenkatala Village, Yelahanka Hobli,\nBangalore 560064"
+  },
+  {
+    "city": "Mysore, India",
+    "Address": "#462, A & B Block, Udayaravi Road\nKuvempunagar, Mysore-570023"
+  },
+  {
+    "city": "Pune, India",
+    "Address": "7th Floor, Amar Madhuban Tech Park\n(AMTP),\nMumbai Bangalore - Bypass Highway\nOpp: Audi Show Room, Baner\nPune-411045"
+  },
+  {
+    "city": "Kochi, India",
+    "Address": "1st Floor, 'A' Wing\nAthulya Building Complex\nInfopark SEZ, Kusumagiri P.O.\nKakkanad\nKochi-682 030"
+  }
+]
